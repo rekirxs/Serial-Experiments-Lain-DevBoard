@@ -1,7 +1,7 @@
 ITEM,PRICE $,QUANTITY,PURPOSE,LINK
 ESP32-S3-WROOM-1U,6.80,2,MCU (needs external antenna),"https://es.aliexpress.com/item/1005011924658910.html"
 AMS1117-3.3V (SOT-223),4.12,1,Voltage regulator,"https://es.aliexpress.com/item/1005009941982629.html"
-SK6812 5050 RGB LED,2.29,1,Status LED,"Search: "https://es.aliexpress.com/item/32623583544.html"
+SK6812 5050 RGB LED,2.29,1,Status LED,"https://es.aliexpress.com/item/32623583544.html"
 1N5819 Schottky Diode (SOD-123),3.63,1,Reverse polarity protection,"https://es.aliexpress.com/item/1005006955703964.html"
 PESD5V0S1BA TVS Diode (SOD-323),2.98,3,"USB ESD protection (D2, D3, D4)","https://es.aliexpress.com/item/1005010796700839.html"
 USB-C Receptacle 16-pin (HRO TYPE-C-31-M-12),0.65,1,"https://es.aliexpress.com/item/1005007419369264.html"
