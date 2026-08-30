@@ -10,7 +10,7 @@ Also I just wanted an excuse to build a PCB.
 
 ![3d](IMAGES/3d.png)
 
-![PCB](IMAGES/pcb.png)
+![PCB](IMAGES/PCB.png)
 
 
 Hardware
