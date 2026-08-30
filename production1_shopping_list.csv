@@ -1,0 +1,16 @@
+ITEM,PRICE $,QUANTITY,PURPOSE,LINK
+ESP32-S3-WROOM-1U,,1,MCU (needs external antenna),Search: "ESP32-S3-WROOM-1U module"
+AMS1117-3.3V (SOT-223),,1,Voltage regulator,Search: "AMS1117-3.3 SOT-223"
+SK6812 5050 RGB LED,,1,Status LED,Search: "SK6812 5050/3535 RGB SMD individually addressable"
+1N5819 Schottky Diode (SOD-123),,1,Reverse polarity protection,Search: "1N5819 SOD-123 schottky diode"
+PESD5V0S1BA TVS Diode (SOD-323),,3,USB ESD protection (D2 D3 D4),Search: "PESD5V0S1BA SOD-323 TVS diode"
+USB-C Receptacle 16-pin (HRO TYPE-C-31-M-12),,1,USB connector - confirm M 16Pin variant,
+PTS810-style Tactile Switch (4.2x3.2mm 4-pin),,2,SW1 SW2 buttons,
+2.54mm Pin Header Socket 1x8,,1,J2 connector,Search: "2.54mm pin header socket 1x8 female"
+0805 SMD Resistor 10K,,3,R1 R5 R6,Search: "0805 SMD resistor 10K ohm"
+0805 SMD Resistor 5.1K,,2,R2 R3 CC pull-downs,Search: "0805 SMD resistor 5.1K ohm"
+0805 SMD Resistor 75 ohm,,1,R4,Search: "0805 SMD resistor 75 ohm"
+0805 SMD Capacitor 0.1uF,,5,C4 C6 C7 C8 C10,Search: "0805 SMD ceramic capacitor 0.1uF"
+0805 SMD Capacitor 10uF,,4,C2 C3 C5 C9,Search: "0805 SMD ceramic capacitor 10uF"
+0805 SMD Capacitor 1uF,,1,C1,Search: "0805 SMD ceramic capacitor 1uF"
+0805 SMD LED,,1,D5,Search: "0805 SMD LED"
